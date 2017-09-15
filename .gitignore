@@ -39,3 +39,5 @@ coverage.xml
 # other useless sh*t
 *.*~
 
+# JetBrains IDE
+.idea/*
